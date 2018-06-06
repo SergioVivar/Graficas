@@ -1,0 +1,8 @@
+Instalar:
+$ npm install -g json-server
+
+Iniciar el servidor:
+json-server --watch datos2.json
+
+URL:
+http://localhost:3000/paises
